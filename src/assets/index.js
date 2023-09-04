@@ -22,10 +22,10 @@ import tailwind from "./tech/tailwind.png";
 import typescript from "./tech/typescript.png";
 import threejs from "./tech/threejs.svg";
 
-import umanitoba from "./company/umanitobatransparent.png";
-import scentrique from "./company/scentriquetransparent.png";
-import linkoping from "./company/linkopingtransparent.png";
-import inceptionu from "./company/inceptionutransparent.png";
+import umanitoba from "./company/umanitoba.png";
+import scentrique from "./company/scentrique.png";
+import linkoping from "./company/linkoping.png";
+import inceptionu from "./company/inceptionu.png";
 import tiktok from "./company/tiktok.png"
 
 import tecyyc from "./tecyyc.png";

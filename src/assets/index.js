@@ -4,6 +4,8 @@ import creator from "./creator.png";
 import mobile from "./mobile.png";
 import web from "./web.png";
 import github from "./github.png";
+import githubnavbar from "./githubnavbar.png"
+import linkedin from "./linkedin.png"
 import menu from "./menu.svg";
 import close from "./close.svg";
 
@@ -16,19 +18,20 @@ import javascript from "./tech/javascript.png";
 import mongodb from "./tech/mongodb.png";
 import nodejs from "./tech/nodejs.png";
 import reactjs from "./tech/reactjs.png";
-import redux from "./tech/redux.png";
 import tailwind from "./tech/tailwind.png";
 import typescript from "./tech/typescript.png";
 import threejs from "./tech/threejs.svg";
 
-import meta from "./company/meta.png";
-import shopify from "./company/shopify.png";
-import starbucks from "./company/starbucks.png";
-import tesla from "./company/tesla.png";
+import umanitoba from "./company/umanitobatransparent.png";
+import scentrique from "./company/scentriquetransparent.png";
+import linkoping from "./company/linkopingtransparent.png";
+import inceptionu from "./company/inceptionutransparent.png";
+import tiktok from "./company/tiktok.png"
 
-import carrent from "./carrent.png";
-import jobit from "./jobit.png";
-import tripguide from "./tripguide.png";
+import tecyyc from "./tecyyc.png";
+import etymolotree from "./etymolotree.jpeg";
+import everychildplays from "./everychildplays.png";
+import striveopp from "./striveopp.png";
 
 export {
   logo,
@@ -48,15 +51,18 @@ export {
   mongodb,
   nodejs,
   reactjs,
-  redux,
   tailwind,
   typescript,
   threejs,
-  meta,
-  shopify,
-  starbucks,
-  tesla,
-  carrent,
-  jobit,
-  tripguide,
+  scentrique,
+  linkoping,
+  inceptionu,
+  umanitoba,
+  tecyyc,
+  etymolotree,
+  everychildplays,
+  striveopp,
+  tiktok,
+  linkedin,
+  githubnavbar
 };

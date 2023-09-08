@@ -32,15 +32,19 @@ import {
     },
     {
         id:"projects",
-        title:"Projects"
+        title:"Directory"
     },
     {
         id:"education",
-        title:"Education"
+        title:"Brands"
+    },
+    {
+      id:"experience",
+      title:"Reviews"
     },
     {
       id: "work",
-      title: "Work",
+      title: "Notes",
     },
     {
       id: "contact",

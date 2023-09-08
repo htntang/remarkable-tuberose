@@ -43,12 +43,12 @@
   );
 }
 
-.lime-gradient {
-  background:#C7B65D;
-  background: linear-gradient(-90deg, #C7B65D 0%, rgba(60, 51, 80, 0) 100%);
+.green-gradient {
+  background:#78a537;
+  background: linear-gradient(-90deg, #78a537 0%, rgba(60, 51, 80, 0) 100%);
   background: -webkit-linear-gradient(
     -90deg,
-    #C7B65D 0%,
+    #78a537 0%,
     rgba(60, 51, 80, 0) 100%
   );
 }

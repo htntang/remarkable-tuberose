@@ -39,10 +39,6 @@ import {
         title:"Brands"
     },
     {
-      id:"experience",
-      title:"Reviews"
-    },
-    {
       id: "work",
       title: "Notes",
     },

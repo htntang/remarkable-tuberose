@@ -1,9 +1,12 @@
-import React from 'react'
+import { Suspense, useEffect, useState } from "react";
+
+import CanvasLoader from "../Loader";
 
 const Computers = () => {
+  
   return (
-    <div>Computers</div>
-  )
-}
+    <div>Computer</div>
+  );
+};
 
-export default Computers
+export default Computers;

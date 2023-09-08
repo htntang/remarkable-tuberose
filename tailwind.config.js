@@ -9,7 +9,8 @@ module.exports = {
         red: "#ed583f",
         saffron: "#f3a732",
         pink:"#ed583f",
-        green:"#c7b65d",
+        green: "#78a537",
+        // green:"#c7b65d",
         "black-100": "#100d25",
         "black-200": "#090325",
         "white-100": "#f3f3f3",
@@ -21,7 +22,7 @@ module.exports = {
         xs: "450px",
       },
       backgroundImage: {
-        // "hero-pattern": "url('/src/assets/herobg.png')",
+        "hero-pattern": "url('/src/assets/herobg.png')",
       },
     },
   },

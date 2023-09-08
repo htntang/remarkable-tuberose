@@ -31,16 +31,20 @@ import {
       title: "About",
     },
     {
-        id:"projects",
+        id:"directory",
         title:"Directory"
     },
     {
-        id:"education",
+        id:"brands",
         title:"Brands"
     },
     {
-      id: "work",
+      id: "notes",
       title: "Notes",
+    },
+    {
+      id: "reviews",
+      title:"Reviews",
     },
     {
       id: "contact",

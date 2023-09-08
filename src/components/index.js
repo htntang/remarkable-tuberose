@@ -2,23 +2,21 @@ import { EarthCanvas, BallCanvas, ComputersCanvas, StarsCanvas } from './canvas'
 import Hero from './Hero';
 import Navigation from './Navigation';
 import About from './About';
-import Tech from './Tech';
-import Experience from './Experience';
-import Projects from './Projects';
+import Directory from './Directory';
+import Brands from './Brands';
+import Notes from './Experience';
+import Reviews from './Reviews';
 import Contact from './Contact';
-import Education from './Education'
 
 export {
   Hero,
   Navigation,
   About,
-  Tech,
-  Experience,
-  Projects,
-  Education,
+  Directory, 
+  Brands,
+  Notes,
+  Reviews,
   Contact,
-  EarthCanvas, 
-  BallCanvas, 
   ComputersCanvas, 
-  StarsCanvas
+  StarsCanvas,
 }

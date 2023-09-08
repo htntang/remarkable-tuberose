@@ -7,6 +7,7 @@ import Brands from './Brands';
 import Notes from './Experience';
 import Reviews from './Reviews';
 import Contact from './Contact';
+import Timeline from './Timeline';
 
 export {
   Hero,
@@ -19,4 +20,5 @@ export {
   Contact,
   ComputersCanvas, 
   StarsCanvas,
+  Timeline,
 }

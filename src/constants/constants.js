@@ -27,6 +27,9 @@ import {
   
   export const navLinks = [
     {
+      id:"timeline",
+      title:"Timeline"
+    },{
       id: "about",
       title: "About",
     },
@@ -145,6 +148,19 @@ import {
       }
   ]
   
+  const historics = [
+    {
+      house: "Guerlain",
+      perfume: "Shalimar",
+      date: "1939"
+    },
+    {
+      house: "Molinard",
+      perfume: "Habanita",
+      date: "1939"
+    }
+  ]
+
   const experiences = [
     {
         title: "Marketing Strategist & Social Media Manager",
@@ -259,4 +275,4 @@ import {
     },
   ];
   
-  export { services, technologies, education, experiences, projects };
+  export { historics };

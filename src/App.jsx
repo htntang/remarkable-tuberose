@@ -10,6 +10,7 @@ import {
   StarsCanvas,
 } from "./components";
 import Brands from "./components/Brands";
+import Timeline from "./components/Timeline";
 
 const App = () => {
   return (
@@ -20,6 +21,7 @@ const App = () => {
           <Hero />
         </div>
 
+        <Timeline />
         <About />
         <Directory />
         <Brands />

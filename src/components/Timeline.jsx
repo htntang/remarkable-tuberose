@@ -8,7 +8,7 @@ import "react-vertical-timeline-component/style.min.css";
 
 import { styles } from "../styles";
 import { historics } from "../constants/constants";
-// import { SectionWrapper } from "../hoc";
+import { SectionWrapper } from "../hoc";
 import { textVariant } from "../utils/motion";
 
 const TimelineCard = ({ historic }) => {
@@ -41,20 +41,22 @@ const TimelineCard = ({ historic }) => {
 const Timeline = () => {
   return (
     <>
-      <motion.div>
-        <p className={`${styles.sectionSubText}`}>Significant Moments in Smell History</p>
+      <motion.div variants={textVariant()}>
+        <p className={`${styles.sectionSubText}`}>
+          Significant Moments in Smell History
+        </p>
         <h2 className={`${styles.sectionHeadText}`}>Perfume History</h2>
       </motion.div>
 
-      <div className="mt-20">
+      <div className="mt-20 mb-20">
         <VerticalTimeline>
-            {historics.map((historic,index) => (
-                <TimelineCard key={index} historic={historics} />
-            ))}
+          {historics.map((historic, index) => (
+            <TimelineCard key={index} historic={historics} />
+          ))}
         </VerticalTimeline>
       </div>
     </>
   );
 };
 
-export default Timeline;
+export default SectionWrapper(Timeline, "timeline");

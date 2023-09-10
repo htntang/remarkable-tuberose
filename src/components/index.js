@@ -4,7 +4,7 @@ import Navigation from './Navigation';
 import About from './About';
 import Directory from './Directory';
 import Brands from './Brands';
-import Notes from './Experience';
+import FragranceNotes from './FragranceNotes';
 import Reviews from './Reviews';
 import Contact from './Contact';
 import Timeline from './Timeline';
@@ -15,7 +15,7 @@ export {
   About,
   Directory, 
   Brands,
-  Notes,
+  FragranceNotes,
   Reviews,
   Contact,
   ComputersCanvas, 

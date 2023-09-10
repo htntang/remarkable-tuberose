@@ -5,7 +5,7 @@ import {
   Hero,
   Navigation,
   Directory,
-  Notes,
+  FragranceNotes,
   Reviews,
   StarsCanvas,
 } from "./components";
@@ -20,12 +20,11 @@ const App = () => {
           <Navigation />
           <Hero />
         </div>
-
-        <Timeline />
         <About />
-        <Directory />
+        <Timeline />
         <Brands />
-        <Notes />
+        <FragranceNotes />
+        <Directory />
         <Reviews />
 
         <div className="relative z-0">

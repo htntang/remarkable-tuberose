@@ -1,5 +1,4 @@
-import {
-  } from "../assets";
+import { ambrette, anise, cardamom, jasminesambac, tobacco, tuberose, vanilla, vetiver, ylangylang } from "../assets";
   
   export const navLinks = [
     {
@@ -137,22 +136,22 @@ import {
   const notes = [
     {
       ingredient:"Ambrette",
-      icon:"",
+      icon:ambrette,
       description:""
     },
     {
       ingredient: "Anise",
-      icon:"",
+      icon:anise,
       description:""
     },
     {
       ingredient:"Cardamom",
-      icon:"",
+      icon:cardamom,
       description:""
     },
     {
       ingredient:"Jasmine Sambac",
-      icon:"",
+      icon:jasminesambac,
       description:""
     },
     {
@@ -168,22 +167,22 @@ import {
 
     {
       ingredient:"Tobacco",
-      icon:"",
+      icon:tobacco,
       description:""
     },
     {
       ingredient:"Tuberose",
-      icon:"",
+      icon:tuberose,
       description:""
     },
     {
       ingredient:"Vanilla",
-      icon:"",
+      icon:vanilla,
       description:""
     },
     {
       ingredient:"Vetiver",
-      icon:"",
+      icon:vetiver,
       description:""
     },
     {
@@ -193,7 +192,7 @@ import {
     },
     {
       ingredient:"Ylang-Ylang",
-      icon:"",
+      icon:ylangylang,
       description:""
     }
   ]

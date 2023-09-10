@@ -18,7 +18,7 @@ const NoteCard = ({ index, ingredient, icon, description }) => {
             options={{ max: 45, scale: 1, speed: 450 }}
             className="bg-[#F8B3CC] rounded-full py-12 px-12 min-h-[220px] flex justify-evenly items-center flex-col"
           >
-            <img src="" alt={ingredient} className="w-16 h-16 object contain" />
+            <img src={icon} alt={ingredient} className="w-16 h-16 object contain" />
 
             <h3 className="text-white text-[20px] font-bold text-center">
               {ingredient}

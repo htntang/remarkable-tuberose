@@ -1,64 +1,28 @@
 import logo from "./logo.png";
-import backend from "./backend.png";
-import creator from "./creator.png";
-import mobile from "./mobile.png";
-import web from "./web.png";
-import github from "./github.png";
 import menu from "./menu.svg";
 import close from "./close.svg";
 
-import css from "./tech/css.png";
-import docker from "./tech/docker.png";
-import figma from "./tech/figma.png";
-import git from "./tech/git.png";
-import html from "./tech/html.png";
-import javascript from "./tech/javascript.png";
-import mongodb from "./tech/mongodb.png";
-import nodejs from "./tech/nodejs.png";
-import reactjs from "./tech/reactjs.png";
-import tailwind from "./tech/tailwind.png";
-import typescript from "./tech/typescript.png";
-import threejs from "./tech/threejs.svg";
-
-import umanitoba from "./company/umanitoba.png";
-import scentrique from "./company/scentrique.png";
-import linkoping from "./company/linkoping.png";
-import inceptionu from "./company/inceptionu.png";
-import tiktok from "./company/tiktok.png"
-
-import tecyyc from "./tecyyc.png";
-import etymolotree from "./etymolotree.jpeg";
-import everychildplays from "./everychildplays.png";
-import striveopp from "./striveopp.png";
+import ambrette from "./ingredients/ambrette.png"
+import anise from "./ingredients/anise.png"
+import cardamom from "./ingredients/cardamom.png"
+import jasminesambac from "./ingredients/jasminesambac.png"
+import ylangylang from "./ingredients/ylangylang.png"
+import tuberose from "./ingredients/tuberose.png"
+import vanilla from "./ingredients/vanilla.png"
+import vetiver from "./ingredients/vetiver.png"
+import tobacco from "./ingredients/tobacco.png"
 
 export {
   logo,
-  backend,
-  creator,
-  mobile,
-  web,
-  github,
   menu,
   close,
-  css,
-  docker,
-  figma,
-  git,
-  html,
-  javascript,
-  mongodb,
-  nodejs,
-  reactjs,
-  tailwind,
-  typescript,
-  threejs,
-  scentrique,
-  linkoping,
-  inceptionu,
-  umanitoba,
-  tecyyc,
-  etymolotree,
-  everychildplays,
-  striveopp,
-  tiktok
+  ambrette,
+  anise,
+  cardamom,
+  jasminesambac,
+  ylangylang,
+  tuberose,
+  vanilla,
+  vetiver,
+  tobacco
 };

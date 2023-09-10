@@ -10,13 +10,12 @@ module.exports = {
         saffron: "#f3a732",
         pink:"#ed583f",
         green: "#78a537",
-        // green:"#c7b65d",
         "black-100": "#100d25",
         "black-200": "#090325",
         "white-100": "#f3f3f3",
       },
       boxShadow: {
-        card: "0px 35px 120px -15px #211e35",
+        card: "0px 35px 120px -15px #905b08",
       },
       screens: {
         xs: "450px",

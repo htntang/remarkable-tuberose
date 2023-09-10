@@ -14,8 +14,8 @@ import { textVariant } from "../utils/motion";
 const TimelineCard = ({ historic }) => {
   return (
     <VerticalTimelineElement
-      contentStyle={{ background: "#78a537", color: "#fff" }}
-      contentArrowStyle={{ borderRight: "7px solid #78a537" }}
+      contentStyle={{ background: "#F8B3CC", color: "#fff" }}
+      contentArrowStyle={{ borderRight: "7px solid #F8B3CC" }}
     >
       <div>
         <h3 className="text-white text-[24px] font-bold">{historic.house}</h3>

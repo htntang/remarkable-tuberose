@@ -1,4 +1,4 @@
-import { ambrette, anise, cardamom, jasminesambac, tobacco, tuberose, vanilla, vetiver, ylangylang } from "../assets";
+import { ambrette, anise, cardamom, jasminesambac, lilies, patchouli, sandalwood, tobacco, tuberose, vanilla, vetiver, ylangylang } from "../assets";
   
   export const navLinks = [
     {
@@ -156,12 +156,12 @@ import { ambrette, anise, cardamom, jasminesambac, tobacco, tuberose, vanilla, v
     },
     {
       ingredient:"Lily",
-      icon:"",
+      icon:lilies,
       description:""
     },
     {
       ingredient:"Sandalwood",
-      icon:"",
+      icon:sandalwood,
       description:""
     },
 
@@ -187,7 +187,7 @@ import { ambrette, anise, cardamom, jasminesambac, tobacco, tuberose, vanilla, v
     },
     {
       ingredient:"Patchouli",
-      icon:"",
+      icon:patchouli,
       description:""
     },
     {

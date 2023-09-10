@@ -11,6 +11,9 @@ import tuberose from "./ingredients/tuberose.png"
 import vanilla from "./ingredients/vanilla.png"
 import vetiver from "./ingredients/vetiver.png"
 import tobacco from "./ingredients/tobacco.png"
+import lilies from "./ingredients/lilies.png"
+import sandalwood from "./ingredients/sandalwood.png"
+import patchouli from "./ingredients/patchouli.png"
 
 export {
   logo,
@@ -24,5 +27,8 @@ export {
   tuberose,
   vanilla,
   vetiver,
-  tobacco
+  tobacco,
+  lilies,
+  sandalwood,
+  patchouli
 };

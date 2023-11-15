@@ -48,12 +48,14 @@ const TimelineCard = ({ historic }) => {
 const Timeline = () => {
   return (
     <>
-      <motion.div variants={textVariant()}>
-        <p className={`${styles.sectionSubText}`}>
-          Significant Moments in Smell History
-        </p>
-        <h2 className={`${styles.sectionHeadText}`}>Perfume History</h2>
-      </motion.div>
+      <div className="mt-20">
+        <motion.div variants={textVariant()}>
+          <p className={`${styles.sectionSubText}`}>
+            Significant Moments in Smell History
+          </p>
+          <h2 className={`${styles.sectionHeadText}`}>A Perfume Timeline</h2>
+        </motion.div>
+      </div>
 
       <div className="mt-20">
         <VerticalTimeline>
